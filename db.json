@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "title": "Working from home1",
+      "id": "1",
+      "Author": "lwando meje",
+      "Genre": "Novel",
+      "ReleaseDate": "12 July 2021"
+    },
+    {
+      "title": "Working from home3",
+      "id": "3",
+      "Author": "lwando meje",
+      "Genre": "Novel",
+      "ReleaseDate": "14 July 2021"
+    },
+    {
+      "id": 848,
+      "title": "War and Peace",
+      "Author": " Leo Tolstoy",
+      "Genre": "novel",
+      "ReleaseDate": "10 july 2010"
+    },
+    {
+      "id": 274,
+      "title": "Song of Solomon",
+      "Author": "Toni Morrison",
+      "Genre": "novel",
+      "ReleaseDate": "20 june 2000"
+    },
+    {
+      "id": 615,
+      "title": "The Cloud Atlas",
+      "Author": "David Mitchell",
+      "Genre": "novel",
+      "ReleaseDate": "05 june 2016"
+    }
+  ]
+}
